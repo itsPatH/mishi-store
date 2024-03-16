@@ -1,0 +1,99 @@
+{
+  "categories": [
+    { "id": 1, "name": "Juguetes para Gatos" },
+    { "id": 2, "name": "Juguetes para Perros" },
+    { "id": 3, "name": "Snacks" }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Pescadito",
+      "description": "Pescado de juguete para gatos con carga USB y catnip.",
+      "price": 3.99,
+      "stock": 25,
+      "image": "https://dojiw2m9tvv09.cloudfront.net/40932/product/X_x_71zquyarhql-_ac_sl1500_89974069.jpeg?146&time=1710472136",
+      "isOnDiscount": false,
+      "category": 1
+    },
+    {
+      "id": 2,
+      "name": "Ratoncitos",
+      "description": "Ratoncitos de peluche para gatos",
+      "price": 0.99,
+      "stock": 50,
+      "image": "https://img.joomcdn.net/e84fd53bf6b413a59718b8b920e8b609f32a9457_original.jpeg",
+      "isOnDiscount": false,
+      "category": 1
+    },
+    {
+      "id": 3,
+      "name": "Serpiente",
+      "description": "Serpiente de juguete para gatos rellenas de catnip",
+      "price": 4.99,
+      "stock": 50,
+      "image": "https://m.media-amazon.com/images/I/617IiteH5qL._AC_SL1500_.jpg",
+      "isOnDiscount": false,
+      "category": 1
+    },
+    {
+      "id": 4,
+      "name": "Pelotita para gatos",
+      "description": "Pelota de plástico con un ratoncito de peluche en su interior",
+      "price": 1.5,
+      "stock": 35,
+      "image": "https://img.kwcdn.com/product/fancyalgo/toaster-api/toaster-processor-image-cm2in/fca5d568-e0ea-11ed-8f9c-0a580a698dd1.jpg?imageView2/2/w/800/q/70/format/webp",
+      "isOnDiscount": false,
+      "category": 1
+    },
+    {
+      "id": 5,
+      "name": "Disco para perro",
+      "description": "Disco de hule para entrenamiento de perros",
+      "price": 3.99,
+      "stock": 15,
+      "image": "https://fernapetcl.vtexassets.com/arquivos/ids/209768-1200-auto?v=638304724081300000&width=1200&height=auto&aspect=true",
+      "isOnDiscount": false,
+      "category": 2
+    },
+    {
+      "id": 6,
+      "name": "Lanza pelotas para perros",
+      "description": "Pequeña máquina que arroja pelotas para el entrenamiento de perros",
+      "price": 30.99,
+      "stock": 20,
+      "image": "https://i.blogs.es/aa3ae8/juguetes-de-perro-de-moda/1366_2000.jpeg",
+      "isOnDiscount": false,
+      "category": 2
+    },
+    {
+      "id": 7,
+      "name": "Huesitos",
+      "description": "Huesos de hule para cachorros",
+      "price": 2.99,
+      "stock": 50,
+      "image": "https://mascosas.cl/storage/Products/juguete-para-perros-forma-de-hueso_6579285a435f1.webp",
+      "isOnDiscount": false,
+      "category": 2
+    },
+    {
+      "id": 8,
+      "name": "Galletas para perros",
+      "description": "Galletas a base de ingredientes naturales y proteicos para perros",
+      "price": 4.99,
+      "stock": 15,
+      "image": "https://entrenatuperro.online/wp-content/uploads/2022/12/img_perros-galletas-caseras-recetas-art-1.jpg",
+      "isOnDiscount": false,
+      "category": 3
+    },
+    {
+      "id": 9,
+      "name": "Galletas para gatos",
+      "description": "Galletas a base de ingredientes naturales y proteicos para gatos",
+      "price": 4.99,
+      "stock": 20,
+      "image": "https://dojiw2m9tvv09.cloudfront.net/11787/product/X_biolinegalletasconcatnipparagatos80gr12982.jpg?80&time=1710473998",
+      "isOnDiscount": false,
+      "category": 3
+    }
+  ]
+}
