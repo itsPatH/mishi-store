@@ -1,4 +1,3 @@
-//agrupador de componentes
 
 import { useEffect, useState } from "react";
 
