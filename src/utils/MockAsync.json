@@ -28,7 +28,7 @@
     {
       "id": 3,
       "name": "Serpiente",
-      "description": "Serpiente de juguete para gatos rellenas de catnip",
+      "description": "Serpiente de juguete para gatos rellena de catnip",
       "price": 4.99,
       "stock": 50,
       "image": "https://m.media-amazon.com/images/I/617IiteH5qL._AC_SL1500_.jpg",
@@ -39,7 +39,7 @@
       "id": 4,
       "name": "Pelotita para gatos",
       "description": "Pelota de plástico con un ratoncito de peluche en su interior",
-      "price": 1.5,
+      "price": 1.50,
       "stock": 35,
       "image": "https://img.kwcdn.com/product/fancyalgo/toaster-api/toaster-processor-image-cm2in/fca5d568-e0ea-11ed-8f9c-0a580a698dd1.jpg?imageView2/2/w/800/q/70/format/webp",
       "isOnDiscount": false,
